@@ -1,1 +1,3 @@
-# smart-food-shop
+# smart-gather
+
+## version 0.0.1-SNAPSHOT
